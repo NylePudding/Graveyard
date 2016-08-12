@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{426FDC79-046E-281C-5322-161F011CE68C}") = "Graveyard", "Assembly-CSharp.csproj", "{48DFD3B5-3C27-66CA-D94F-A5388FD4FCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DFD3B5-3C27-66CA-D94F-A5388FD4FCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DFD3B5-3C27-66CA-D94F-A5388FD4FCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DFD3B5-3C27-66CA-D94F-A5388FD4FCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DFD3B5-3C27-66CA-D94F-A5388FD4FCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+														GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal
